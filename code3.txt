@@ -1,5 +1,5 @@
 Feature 1
-Bugfix 1 fixed
+Bugfix 1 solved
 Feature 2
 Bugfix 2
 Feature 3 added
