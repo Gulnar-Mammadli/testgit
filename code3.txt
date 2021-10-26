@@ -3,3 +3,4 @@ Bugfix 1 solved
 Feature 2
 Bugfix 2
 Feature 3 added
+Bug 4 added
