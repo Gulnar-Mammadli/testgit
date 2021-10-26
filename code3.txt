@@ -2,3 +2,4 @@ Feature 1
 Bugfix 1
 Feature 2
 Bugfix 2
+Feature 3 added
